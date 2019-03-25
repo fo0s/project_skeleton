@@ -1,6 +1,6 @@
 require 'sinatra/base'
 
-class BookmarkManager < Sinatra::Base
+class AppName < Sinatra::Base
   get '/' do
     'Hello World'
   end
